@@ -1,3 +1,2 @@
 # Practise
-Everyday practise, including algorithms, data structure                                            
-and everything.
+Everyday practise, including algorithms, data structure and everything.
