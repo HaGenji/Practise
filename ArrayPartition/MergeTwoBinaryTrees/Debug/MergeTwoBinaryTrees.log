@@ -1,0 +1,5 @@
+﻿F:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(MergeTwoBinaryTrees.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  正在跳过...(未检测到相关更改)
+  源.cpp
+  MergeTwoBinaryTrees.vcxproj -> F:\Git\Repo\Practise\MergeTwoBinaryTrees\Debug\ArrayPartition.exe
+  MergeTwoBinaryTrees.vcxproj -> F:\Git\Repo\Practise\MergeTwoBinaryTrees\Debug\ArrayPartition.pdb (Partial PDB)
